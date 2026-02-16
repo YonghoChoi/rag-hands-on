@@ -1,7 +1,0 @@
-{
-  "ecs": {
-    "cluster_name": "mlflow",
-    "service_name": "mlflow"
-  },
-  "vpc_name": "default"
-}

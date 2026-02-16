@@ -1,2 +1,0 @@
-from .sm_llava_custome_realtime_endpoint import LlaVaRealtimeEndpointStack
-from .sm_realtime_endpoint_autoscaling import SageMakerRealtimeEndpointAutoScalingStack

@@ -1,4 +1,0 @@
-{
-  "db_cluster_name": "rag-pgvector-demo",
-  "sagemaker_studio_domain_name": "llm-app-rag-pgvector"
-}

@@ -1,9 +1,0 @@
-langchain
-langchain-huggingface
-langchain-milvus
-sentence-transformers
-streamlit
-pandas
-python-dotenv
-pymilvus
-pymupdf
