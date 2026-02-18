@@ -60,5 +60,5 @@
 git clone https://github.com/YonghoChoi/rag-hands-on.git
 ```
 
-11. 이제부터는 Amazon SageMaker AI의 Jupyter 노트북을 사용해서 실습을 진행합니다.
+11. 이제부터는 Amazon SageMaker AI의 Jupyter 노트북을 사용해서 실습을 진행합니다. 왼쪽 탐색기 창에서 `rag-hands-on/notebooks` 디렉토리로 이동한 후 `01_create_bedrock_kb.ipynb` 파일을 선택합니다. 오른쪽 상단에 `Python 3`가 잘 선택되어 있는지 확인합니다. 
 ![](images/setup_10.png)
